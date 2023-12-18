@@ -2,7 +2,7 @@
 
 @section('content')
 @php
-    $pageTitle = "Kamar Kosong"; // Default title for Daftar Kamar
+    $pageTitle = "Kamar Kosong"; // Default title for Daftar Kamar Tidur
 @endphp
 <div class="content">
     <div class="row">
